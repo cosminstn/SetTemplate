@@ -1,0 +1,5 @@
+﻿SetTemplate.obj : error LNK2019: unresolved external symbol "public: __thiscall Set<int>::Set<int>(void)" (??0?$Set@H@@QAE@XZ) referenced in function _main
+SetTemplate.obj : error LNK2019: unresolved external symbol "public: __thiscall Set<int>::~Set<int>(void)" (??1?$Set@H@@QAE@XZ) referenced in function _main
+SetTemplate.obj : error LNK2019: unresolved external symbol "public: void __thiscall Set<int>::insert(int)" (?insert@?$Set@H@@QAEXH@Z) referenced in function _main
+SetTemplate.obj : error LNK2019: unresolved external symbol "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class Set<int> const &)" (??6@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV01@ABV?$Set@H@@@Z) referenced in function _main
+C:\Users\Cosmin\Google Drive\Info An 1 2017-2018\Semestrul 2\POO\SetTemplate\Debug\SetTemplate.exe : fatal error LNK1120: 4 unresolved externals
